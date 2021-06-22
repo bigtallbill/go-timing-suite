@@ -1,3 +1,3 @@
-module gitlab.com/wuup-lab/deckabot-go
+module github.com/bigtallbill/go-timing-suite
 
 go 1.14
